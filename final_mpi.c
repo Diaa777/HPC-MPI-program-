@@ -674,7 +674,7 @@ int main(int argc, char **argv)
 	
 
 
-	printf("the needed time of the Master : %d\n", tend-tstart);
+	printf("the needed time of the Master : %.6lf\n", tend-tstart);
 	
 }// end Master code .
 
