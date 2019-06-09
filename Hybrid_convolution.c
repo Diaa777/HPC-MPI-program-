@@ -838,8 +838,7 @@ int main(int argc, char **argv)
 
 	}// end slaves code 
     
-	//freeImagestructure(&source);
-        //freeImagestructure(&output);
+	
 
 	//fclose(fpsrc);
 	//fclose(fpdst);
